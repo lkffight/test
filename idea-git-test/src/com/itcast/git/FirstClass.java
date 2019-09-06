@@ -12,6 +12,7 @@ public class FirstClass {
 
     public  void test(){
         int i=1;
+        System.out.println("hello git   4444");
     }
 
 }
